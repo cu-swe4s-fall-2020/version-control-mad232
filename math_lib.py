@@ -1,5 +1,9 @@
 def div(a, b):
-    if b=0:
+    if b==0:
         return "error"
     else:
         return a/b
+
+def add(a,b):
+    return a+b
+
